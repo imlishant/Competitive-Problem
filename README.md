@@ -1,2 +1,2 @@
-## Problems which are more trickier than it seems.
+## Hard and Trickier Problems.
 ### Problems from various competitive platforms.
