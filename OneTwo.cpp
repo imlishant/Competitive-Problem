@@ -6,6 +6,7 @@ array element only 1 and 2.
 1 <= test <= 5;
 1 <= N <= 2*10^6;
 find no. of contiguous subseq. of sum == s;
+where
 0 <= s <= 2*N;
 */
 
