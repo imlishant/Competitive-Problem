@@ -57,8 +57,9 @@ nCk = n!/((k!) * (n-k)!)
 nCk (mod p) = ( (n!)*(mod p) * inv(k!)*(mod p) * inv((n-k)!)*(mod p) ) * (mod p)
 
 ---------------------------
-
+GENERALLY, IF p IS PRIME, THEN THE FERMAT LITTLE THEOREM STATES THAT:
 a^p = a (mod p)
+IF GCD(a,p)=1 THEN WE CAN ALSO WRITE IT AS:
 a^(p-1) = 1 (mod p)
 a * inv(a) = a^(p-1) (mod p)
 inv(a) = a^(p-2) (mod p)
